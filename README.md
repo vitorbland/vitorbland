@@ -2,8 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vitor+Blandino;I'm+24+years+old;I+from+Londrina,+PR;I+study+systems+development++;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<a href="https://github.com/Beatrizaquino">
+<a href="https://github.com/Vitorbland">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorbland&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+<div>
+  <a href="https://github.com/Vitorbland">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorbland&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <p />
