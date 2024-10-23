@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vitorbland&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Vit-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vit-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vit-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
