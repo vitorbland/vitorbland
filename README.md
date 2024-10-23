@@ -11,7 +11,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Vitorbland&theme=cobalt&hide_border=true&area=true)
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beatrizaquino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vitorbland&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
   <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@
   
   <div>
   <a href="https://www.youtube.com/watch?v=VcjzHMhBtf0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/vior_bland" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vitor_bland" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/xinglingding#7474" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorblandino123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
