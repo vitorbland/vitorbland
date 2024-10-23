@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorbland&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorbland&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+<p />
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vitorbland&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
