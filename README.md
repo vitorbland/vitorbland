@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vitor+Blandino;I'm+24+years+old;I+from+Londrina,+PR;I+study+systems+development++;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
